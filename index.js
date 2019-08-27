@@ -9,7 +9,6 @@ function writeCards(names) {
 
 function countdown(num) {
   while (num >= 0) {
-    console.log(num)
-    num--
+    console.log(num--)
   }
 }
